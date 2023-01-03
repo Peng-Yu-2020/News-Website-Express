@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../axios-crash-master"
+		},
+		{
+			"path": "../WeatherProject"
+		},
+		{
+			"path": "../Newsletter-Singup"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../TodoList-Express-v1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "axios-crash-master"
+	}
+}
